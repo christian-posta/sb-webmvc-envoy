@@ -20,7 +20,7 @@ data:
                 {
                   "name": "ipaddress_service",
                   "domains": [
-                    "ipaddress-service"
+                    "ipaddress"
                   ],
                   "routes": [{
                     "timeout_ms": 0,
